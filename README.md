@@ -13,7 +13,7 @@
 - [GitHub私有库存储优选IP文教程](https://youtu.be/vX3U3FuuTT8) | [CF免费KV存储优选IP文件教程](https://youtu.be/dzxezRV1v-o) [获取免费域名教程](https://www.youtube.com/playlist?list=PLGVQi7TjHKXZGODTvB8DEervrmHANQ1AR) | [获取CF自家域名无限节点](https://youtu.be/novrPiMsK70)
 
 
-## 一、Workers 部署方法 [视频教程](https://www.youtube.com/watch?v=dPH63nITA0M&t=151s)
+## 一、Workers 部署方法 [视频教程](https://www.youtube.com/watch?v=wgeM9XvZ5RA&t=195s)
 <details>
 <summary>点击展开/收起</summary>
 
@@ -40,7 +40,7 @@
    
 </details>
 
-## 二、Pages 上传 部署方法 **最佳推荐!!!** [视频教程](https://www.youtube.com/watch?v=dPH63nITA0M&t=476s)
+## 二、Pages 上传 部署方法 **最佳推荐!!!** [视频教程](https://www.youtube.com/watch?v=wgeM9XvZ5RA&t=1203s)
  <details>
 <summary>点击展开/收起</summary>
     
@@ -133,6 +133,9 @@
      
 - Android（安卓手机）
    - [v2rayNG](https://github.com/2dust/v2rayNG/releases) |  [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev/releases) | [sing-box](https://github.com/SagerNet/sing-box/releases) |  [Clash Nyanpasu](https://github.com/keiko233/clash-nyanpasu/releases) |  [karing](https://karing.app/download) | [Hiddify](https://github.com/hiddify/hiddify-next/releases)
+
+- 软路由
+   - [openclash(clash.meta)](https://github.com/vernesong/OpenClash/releases) 
   
 # 感谢
 [3Kmfi6HP](https://github.com/3Kmfi6HP/EDtunnel)、[ACL4SSR](https://github.com/ACL4SSR/ACL4SSR/tree/master/Clash/config)
